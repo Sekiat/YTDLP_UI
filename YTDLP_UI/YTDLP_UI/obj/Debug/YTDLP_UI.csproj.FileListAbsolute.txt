@@ -1,0 +1,13 @@
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\bin\Debug\YTDLP_UI.exe.config
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\bin\Debug\YTDLP_UI.exe
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\bin\Debug\YTDLP_UI.pdb
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.csproj.AssemblyReference.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.Form1.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.Properties.Resources.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.csproj.GenerateResource.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.csproj.CoreCompileInputs.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.exe
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.pdb
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.Help.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Debug\YTDLP_UI.HowTo.resources
