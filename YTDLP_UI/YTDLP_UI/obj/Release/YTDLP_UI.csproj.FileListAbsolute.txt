@@ -1,0 +1,13 @@
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\bin\Release\YTDLP_UI.exe.config
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\bin\Release\YTDLP_UI.exe
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\bin\Release\YTDLP_UI.pdb
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.Form1.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.Help.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.HowTo.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.Properties.Resources.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.csproj.GenerateResource.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.csproj.CoreCompileInputs.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.exe
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.pdb
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.csproj.AssemblyReference.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\YTDLP_UI\YTDLP_UI\YTDLP_UI\obj\Release\YTDLP_UI.Settings.resources

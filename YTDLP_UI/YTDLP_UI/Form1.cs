@@ -14,7 +14,7 @@ namespace YTDLP_UI
 {
     public partial class Form1 : Form
     {
-        public static string YTDLP_Path = "yt-dlp.exe";
+        
         public ProcessStartInfo processStartInfo = new ProcessStartInfo();
         public Form1()
         {
@@ -27,7 +27,7 @@ namespace YTDLP_UI
             processStartInfo.RedirectStandardOutput = true;
             processStartInfo.UseShellExecute = false;
             //processStartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            processStartInfo.FileName = YTDLP_Path;
+            processStartInfo.FileName = Settings.YTDLP_Path;
         }
 
         private void ヘルプToolStripMenuItem1_Click(object sender, EventArgs e)
@@ -42,11 +42,6 @@ namespace YTDLP_UI
         }
 
         private void 環境設定ToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
@@ -192,6 +187,28 @@ namespace YTDLP_UI
         private void 使い方ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new HowTo().ShowDialog();
+        }
+
+        private void 設定ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void 環境設定ToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            new Settings(this).ShowDialog();
+        }
+
+
+        //データのロードと復元
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Properties.Settings.Default.YTDLP__Path = Settings.YTDLP_Path;
+            Properties.Settings.Default.Save();
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Settings.YTDLP_Path = Properties.Settings.Default.YTDLP__Path;
         }
     }
 
