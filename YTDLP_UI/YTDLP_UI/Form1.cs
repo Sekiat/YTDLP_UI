@@ -211,6 +211,16 @@ namespace YTDLP_UI
 
             SetProcessInfo();
         }
+
+        private void 終了ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void githubToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://github.com/Sekiat/YTDLP_UI");
+        }
     }
 
     enum FormatDataType
