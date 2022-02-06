@@ -19,8 +19,6 @@ namespace YTDLP_UI
         public Form1()
         {
             InitializeComponent();
-
-            SetProcessInfo();
         }
         private void SetProcessInfo()
         {
@@ -149,6 +147,7 @@ namespace YTDLP_UI
         {
             processStartInfo.Arguments = "--update";
             Process process = Process.Start(processStartInfo);
+            MessageBox.Show(process.StandardOutput.ReadToEnd());
         }
 
         private void AddButton_Click(object sender, EventArgs e)
@@ -181,7 +180,7 @@ namespace YTDLP_UI
             Process process = Process.Start(processStartInfo);
             process.WaitForExit();
             SetProcessInfo();
-            MessageBox.Show("プロセスが終了しました");
+            MessageBox.Show("ダウンロードが完了しました");
         }
 
         private void 使い方ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -209,6 +208,8 @@ namespace YTDLP_UI
         private void Form1_Load(object sender, EventArgs e)
         {
             Settings.YTDLP_Path = Properties.Settings.Default.YTDLP__Path;
+
+            SetProcessInfo();
         }
     }
 
